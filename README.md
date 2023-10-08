@@ -9,4 +9,4 @@
 1. [プログラミングについて知ろう](about_programming.md)
 1. [Pythonでプログラムを書けるようになろう](python_paiza.md)
 1. [プログラミングの問題を解いてみよう](programming_atack.md)
-1. [Webアプリ開発をしてみよう](./DjangoCourse/README.md)
+1. [Webアプリ開発をしてみよう](./DjangoCourse/README.md)(現在作成中)
