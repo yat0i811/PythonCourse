@@ -6,9 +6,8 @@
 詳しくは[Webページの仕組みを知ろう](https://paiza.jp/works/html/primer/beginner-html1/11000)をご覧ください。
 
 
-### HTMLとは
+## HTMLとは
 <br>
-
 <b>HTML(Hyper Text Markup Language)</b><br>
 
 * Webページの内容と構成を指定するファイル<br>
@@ -19,7 +18,7 @@
 
 * 基本的に、1ページにつき1ファイル<br><br>
 
-### CSSとは
+## CSSとは
 <br>
 
 <b>CSS(Cascading Style Sheets)</b><br>
@@ -29,9 +28,8 @@
 * テキストファイルとして記述
 * 複数のCSSを組み合わせたり、複数のHTMLで共通のCSSを利用したりできる<br>
 
-
-### Bootstrapとは
-
+## Bootstrapとは
+<br>
 <b>Bootstrap(ツイッター社が開発した高機能なHTMLフレームワーク)</b><br>
 (Webページにおけるフレームワークとは、Webページを作るのに必要な素材(HTMLとCSSのセット)をあらかじめ何パターンか用意したもの)<br><br>
 (ホットケーキを作るときに、ホットケーキミックスを使う感じ)
@@ -42,8 +40,10 @@
 
 * レスポンシブデザインに対応<br>
 (レスポンシブデザインとは、閲覧ユーザーが使用するデバイスの画面サイズに応じて表示を最適化するデザイン)<br>(要するにPCでもスマホでもタブレットでもWebページをちゃんと見れるってこと)
+<br>
 
-### paizaの[HTML/CSS入門編](https://paiza.jp/works/html/primer)で触ってみよう
+## paizaの[HTML/CSS入門編](https://paiza.jp/works/html/primer)で触ってみよう
+<br>
 
-### 実際にDjangoで開発しているWebアプリにも取り入れてみよう
+## 実際にDjangoで開発しているWebアプリにも取り入れてみよう
 
